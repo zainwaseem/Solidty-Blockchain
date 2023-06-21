@@ -1,0 +1,100 @@
+{
+  "Header": {
+    "title": "Fpundation University Rawalpindi Campus",
+    "paragraph": "One of Pakistan's Top Leading Institution delivering excelence and creating bright future since 2002"
+  },
+  "About": {
+    "paragraph": "Foundation University  aspires to be the leading institution of higher learning and contributes towards the development of human resource through excellence in education, research and innovation.",
+    "Why": [
+      "Diverse academic programs",
+      "Experienced and knowledgeable faculty",
+      "Accessible resources and facilities",
+      "Supportive academic environment"
+    ],
+    "Why2": [
+      "Career opportunities and networking",
+      "Campus life and community",
+      "Location and accessibility"
+      
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mr.Rehan",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mr.Faisal Manzoor",
+      "job": "vise director"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Dr.Navid Jamil",
+      "job": "Deen of faculty"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "javed Anjum",
+      "job": "Director of faculty"
+    }
+  ],
+  "Contact": {
+    "address": "Lalazaar Rawalpindi ",
+    "phone": "+92-20523575518-20",
+    "email": "info@fui.edu.pk",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+  
+}

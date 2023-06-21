@@ -1,0 +1,31 @@
+.image-container{
+    position: absolute;
+    right: 0; 
+}
+  .Student {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+    
+  table {
+    border: 3px solid rgb(3, 3, 3);
+  table-layout: fixed;
+ 
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+    text-align: left;
+  }
+  tr{
+    border: '1px solid black'
+  }
+    
+  td {
+    border: 1px solid;
+    text-align: left;
+    
+  }

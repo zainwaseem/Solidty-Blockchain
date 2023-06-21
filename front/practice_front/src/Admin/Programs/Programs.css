@@ -1,0 +1,43 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+  margin: 2rem auto;
+  background-color: #F2F7FF;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #4189C7;
+  color: #fff;
+  font-weight: bold;
+  text-align: left;
+  padding: 1rem;
+}
+
+td {
+  background-color: #fff;
+  color: #555;
+  padding: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover td {
+  background-color: #CCE5FF;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.programs-search{
+height: 28px;
+width: 210px;
+font-size:10pt;
+border-radius: 5px;
+padding: 12px 32px;
+}
+
